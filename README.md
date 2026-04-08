@@ -27,4 +27,5 @@ IBM HR Analytics Employee Attrition Dataset
 ### Author
 
 Nivasha Govender
-HR Professional transitioning into People Analytics
+HR Professional | People Analytics | Data Analysis
+Python | SQL | pandas | Data Visualisation
